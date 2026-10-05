@@ -1,1 +1,2 @@
-Starting of new journey in Backend
+# javascript-backend
+This repository is for my backend journey.
